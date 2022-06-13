@@ -33,7 +33,7 @@ int main() {
     cin >> b; 
     cout << fake(a, b) << endl; 
     cout << strlen(name);
-    cout << "sau khi hoan doi:" << endl; 
+    cout << "sau khi hoan doi la :" << endl; 
     swap(a, b); 
     cout << "a = " << a << endl; 
     cout << "b = " << b << endl;
