@@ -24,6 +24,7 @@ using namespace std;
 int main() {
     char mang[] = {'1','2','3','4','5','6'}; 
     float (*fake)(int, int);
+int shi = 0 ; 
     fake = oneday; 
     char name[] = "nguyen thanh tung";
     int a, b; 
